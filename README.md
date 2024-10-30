@@ -1,10 +1,13 @@
 Polynomial Secret Finder
+
 This Java application solves for the constant term (secret) of an unknown polynomial given a set of points in a specific encoded format.
 Problem Description
 The application finds the constant term of an unknown polynomial where:
 
 The polynomial degree m is determined by k = m + 1
+
 Points are provided in a special encoded format with different number bases
+
 A minimum of k points are required to solve for the coefficients
 
 Polynomial Form
