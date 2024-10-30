@@ -28,5 +28,7 @@ Navigate to the project directory
 
 How to Run
 
-1) Compile the Java files: javac Main.java
-2) Run the program: java Main
+1) Download the zip file, extract and open in any IDE
+2) cd projectname
+3) Compile the Java files: javac Main.java
+4) Run the program: java Main
